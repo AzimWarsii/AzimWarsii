@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif I'm Azim
 
 <!--
 **AzimWarsii/AzimWarsii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
